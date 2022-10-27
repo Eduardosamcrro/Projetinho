@@ -3,6 +3,7 @@
     public class JogadorModel
     {
         //encapsulamento, Proteção de dados
+        //id é o indentificador 
         public int Id { get; set; }
 
         // string é texto
@@ -13,7 +14,7 @@
 
         public string Posicao { get; set; }
 
-
+ 
 
     }
 }
